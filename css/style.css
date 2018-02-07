@@ -1,8 +1,5 @@
 body {
-<<<<<<< HEAD
   font-family: OpenSans;
-=======
->>>>>>> bb0eaf211d5c38cabe73ff0bba2286306c5ecdd7
   background: #efefef;
   margin: 0;
 }
@@ -175,7 +172,6 @@ ol {
   fill: white;
   vertical-align: top;
 }
-<<<<<<< HEAD
 body > main{
   margin-top:-345px;;
 }
@@ -317,5 +313,3 @@ section.portfolio .works > .big,
 section.portfolio .works > .small {
   position: absolute;
 }
-=======
->>>>>>> bb0eaf211d5c38cabe73ff0bba2286306c5ecdd7
