@@ -54,6 +54,3 @@ $("#postMessageForm").on('submit', (function(e) {
             })
     }
 }))
-$('input[name=name]').bind('click', function() {
-    console.log(1)
-})
